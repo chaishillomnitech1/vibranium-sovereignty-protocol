@@ -1,0 +1,1 @@
+Outlines the Family Brand strategy for legacy building via investment in brand partnerships (Nike, Fenty, Twitch) and NFT empowerment.
