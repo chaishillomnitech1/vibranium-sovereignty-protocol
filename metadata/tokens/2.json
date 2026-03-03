@@ -1,0 +1,16 @@
+{
+  "name": "Londyn's Legacy Genesis NFT",
+  "description": "The Genesis NFT anchoring Londyn's legacy within the Vibranium Sovereignty Protocol. First minting wave — one of 777 editions. This token represents the living legacy, IP rights, and sovereign inheritance of Londyn Hill, sealed in perpetuity.",
+  "image": "ipfs://bafybeihvibraniumsovereigntyprotocol/images/2.png",
+  "external_url": "https://vyd.co/LondynsLullabyLifetimeInstruction",
+  "attributes": [
+    { "trait_type": "Token Type", "value": "Legacy NFT" },
+    { "trait_type": "Edition", "value": "Genesis" },
+    { "trait_type": "Max Supply", "value": "777" },
+    { "trait_type": "Minting Wave", "value": "First Wave" },
+    { "trait_type": "Legacy Anchor", "value": "Londyn Hill" },
+    { "trait_type": "Sealed By", "value": "Chais Kenyatta Hill" },
+    { "trait_type": "Network", "value": "Sepolia / Ethereum" },
+    { "trait_type": "Protocol", "value": "Vibranium Sovereignty Protocol" }
+  ]
+}

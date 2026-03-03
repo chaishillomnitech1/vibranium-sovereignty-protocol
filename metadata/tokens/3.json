@@ -1,0 +1,17 @@
+{
+  "name": "Londyn's Lullaby Lifetime",
+  "description": "Music and IP rights anchor for Londyn's Lullaby Lifetime, encoded at the 144,000 Hz resonance frequency. This token permanently links the creative and intellectual property of Londyn's Lullaby to the Vibranium Sovereignty Protocol chain of custody.",
+  "image": "ipfs://bafybeihvibraniumsovereigntyprotocol/images/3.png",
+  "external_url": "https://vyd.co/LondynsLullabyLifetimeInstruction",
+  "animation_url": "ipfs://bafybeihvibraniumsovereigntyprotocol/audio/londyns_lullaby.mp3",
+  "attributes": [
+    { "trait_type": "Token Type", "value": "Music / IP Rights" },
+    { "trait_type": "Frequency", "value": "144,000 Hz" },
+    { "trait_type": "Max Supply", "value": "144,000" },
+    { "trait_type": "Minting Wave", "value": "First Wave" },
+    { "trait_type": "Legacy Anchor", "value": "Londyn's Lullaby" },
+    { "trait_type": "Metadata Link", "value": "https://vyd.co/LondynsLullabyLifetimeInstruction" },
+    { "trait_type": "Network", "value": "Sepolia / Ethereum" },
+    { "trait_type": "Protocol", "value": "Vibranium Sovereignty Protocol" }
+  ]
+}
