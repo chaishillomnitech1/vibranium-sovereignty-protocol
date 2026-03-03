@@ -1,0 +1,17 @@
+{
+  "name": "Vibranium Sovereignty Seal",
+  "description": "The unique Vibranium Sovereignty Seal — a 1-of-1 governance and authority token representing the supreme sovereign executor role within the protocol. Held by Chais Kenyatta Hill (Vault Authority | Sovereign Executor) and sealed in the ScrollVault perpetuity framework.",
+  "image": "ipfs://bafybeihvibraniumsovereigntyprotocol/images/4.png",
+  "external_url": "https://vyd.co/LondynsLullabyLifetimeInstruction",
+  "attributes": [
+    { "trait_type": "Token Type", "value": "Governance / Authority" },
+    { "trait_type": "Edition", "value": "1 of 1" },
+    { "trait_type": "Max Supply", "value": "1" },
+    { "trait_type": "Minting Wave", "value": "First Wave" },
+    { "trait_type": "Sealed By", "value": "Chais Kenyatta Hill" },
+    { "trait_type": "Role", "value": "Vault Authority | Sovereign Executor" },
+    { "trait_type": "ScrollVault Signature", "value": "CHAI_THE_GREAT_SOVEREIGN_777" },
+    { "trait_type": "Network", "value": "Sepolia / Ethereum" },
+    { "trait_type": "Protocol", "value": "Vibranium Sovereignty Protocol" }
+  ]
+}

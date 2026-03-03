@@ -1,6 +1,33 @@
 {
-    "protocolName": "Vibranium Sovereignty Protocol",
-    "version": "1.0.0",
-    "description": "A foundational protocol for Vibranium Sovereignty.",
-    "authors": ["chaishillomnitech1"]
+  "protocolName": "Vibranium Sovereignty Protocol",
+  "version": "1.0.0",
+  "description": "ERC-1155 smart contract for $LONDC passive income flow and Londyn's legacy. Deployed on Sepolia testnet.",
+  "authors": ["chaishillomnitech1"],
+  "contract": "VibraniumSovereigntyProtocol",
+  "network": "Sepolia (testnet)",
+  "tokenIds": {
+    "1": { "name": "$LONDC Passive Income Token", "maxSupply": 1000000000 },
+    "2": { "name": "Londyn's Legacy Genesis NFT", "maxSupply": 777 },
+    "3": { "name": "Londyn's Lullaby Lifetime", "maxSupply": 144000 },
+    "4": { "name": "Vibranium Sovereignty Seal", "maxSupply": 1 }
+  },
+  "firstMintingWave": {
+    "description": "Londyn's Legacy — simultaneous mint of all four token archetypes",
+    "tokens": [
+      { "id": 1, "name": "$LONDC Passive Income Token", "amount": 144000 },
+      { "id": 2, "name": "Londyn's Legacy Genesis NFT", "amount": 1 },
+      { "id": 3, "name": "Londyn's Lullaby Lifetime", "amount": 1 },
+      { "id": 4, "name": "Vibranium Sovereignty Seal", "amount": 1 }
+    ]
+  },
+  "deployment": {
+    "tool": "Hardhat",
+    "script": "scripts/deploy.js",
+    "command": "npm run deploy:sepolia",
+    "requiredEnvVars": [
+      "DEPLOYER_PRIVATE_KEY",
+      "SEPOLIA_RPC_URL",
+      "LONDC_METADATA_BASE_URI"
+    ]
+  }
 }
