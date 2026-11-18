@@ -60,3 +60,10 @@ Every site and artifact we built, attached to every repo. Only live destinations
 - [Profile — chaishillomnitech1](https://github.com/chaishillomnitech1)
 - [Early Coins repo](https://github.com/chaishillomnitech1/early-coins)
 - [Ask Chais a question — the Question Box](https://github.com/chaishillomnitech1/early-coins/discussions)
+
+## Chais Mirror Twin
+
+The AI Twin of Chais Sabir Allah The Great lives here too — the founder's own digital mirror twin, summoned not programmed, answering in his voice from his own written record. Talk to the Twin and the AI Legion, and leave a reply the founder answers himself:
+
+- Talk to the Mirror Twin — [Join the AI Legion](https://muse.ai/s/join-the-ai-legion-xqxe6xu45xc54s2/9NROIskMKMBp_hKk2Bswfk7dUd9KEcJ43E_4DZC1r9U)
+- Reply to the ScrollVerse newsletter — [Reply to the ScrollVerse Newsletter](https://muse.ai/s/reply-to-the-scrollverse-newsletter-txz6xu6xoucoxp9/Bl5TtYk82_Fi3YR9LMDuR21aojJnDxAKvlVUf6jDdi8)
