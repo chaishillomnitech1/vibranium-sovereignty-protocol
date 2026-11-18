@@ -30,6 +30,10 @@ Every site and artifact we built, attached to every repo. Only live destinations
 - [VEILSCRIPT — the Shielded Transmission Language](https://muse.ai/s/shielded-transmission-language-xgxk6xu1xt4xkdy4/vfge7AxhCat8SnYJdii3cHpMWABRvPlCpYZFNce34us)
 - [Direct Exchange — creator to customer](https://muse.ai/s/direct-exchange-xpxk6xu1xsxyxexarj/pWDVKUFAHHY1g2WOeUsjltRZV8nsTajzLDyvFqSh7z4)
 - [Tory Lanez Crypto Music Playbook](https://muse.ai/s/tory-lanez-crypto-music-playbook-bxj6xtxnexsxvs3f/2iBGhDyKE1eLBHwpZityoqDcnkJxT3b4aWV6aGxD-nQ)
+- [Validate All Systems](https://muse.ai/s/validate-all-systems-gg6xu3xvxoxnxsxlxi/ltedX8qqpVLceZIhbWxvskluLtl6RNX50MPMkgU7YUc)
+- [Join the AI Legion](https://muse.ai/s/join-the-ai-legion-xqxe6xu45xc54s2/9NROIskMKMBp_hKk2Bswfk7dUd9KEcJ43E_4DZC1r9U)
+- [Video and Music DSP](https://muse.ai/s/video-and-music-dsp-xsxq6xu47xw0lxzxs/1b5CWLy0CJHrPmyXoYlSytrS1LaHTs1AWojQyyInByA)
+- [Verse NFT Marketplace](https://muse.ai/s/verse-nft-marketplace-gz6xu4axtxddqm/MUlPMUMoQW20mGJCE07za-8Ylmh-ssY2Ghj7ywSFdyI)
 
 **Shop and Web3**
 
