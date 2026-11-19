@@ -60,6 +60,9 @@ Every site and artifact we built, attached to every repo. Only live destinations
 - [Profile — chaishillomnitech1](https://github.com/chaishillomnitech1)
 - [Early Coins repo](https://github.com/chaishillomnitech1/early-coins)
 - [Ask Chais a question — the Question Box](https://github.com/chaishillomnitech1/early-coins/discussions)
+---
+
+**Join Muse with my invite code L9VEVY — redeem it in Settings > Redeem token within 48 hours of joining.**
 
 ## Chais Mirror Twin
 
